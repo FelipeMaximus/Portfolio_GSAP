@@ -3,7 +3,7 @@
 ## :camera: Demo
 
 <p align="center">
-  <video src="port.mp4" width="600" controls></video>
+  <img src="port.gif" width="600" />
 </p>
 
 # Portfolio
