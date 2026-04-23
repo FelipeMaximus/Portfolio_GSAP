@@ -6,20 +6,54 @@
   <video src="port.mp4" width="600" controls></video>
 </p>
 
-# Sistema de Cadastro
+# Portfolio
 
-Este é um projeto desktop desenvolvido em Java que integra Swing , utilizando SQLite como banco de dados local.
-O objetivo é fornecer uma aplicação prática de gestão de clientes, com interface gráfica amigável, persistência de dados e geração de relatórios dinâmicos.
+Tecnologias
 
-Neste Sistema CRUD Desktop utilizamos a JDK17, começando com a tela de login, usando criptografia e fazendo uma conexão com banco de dados interna o Dbeaver, com a tecnologia 
-Jasper Studio criamos relatórios e finalizado usando o recurso de backup.
+GSAP (GreenSock)
+ScrollTrigger
+Lenis (Darkroom Engineering)
+HTML5
+CSS3 / SCSS
+JavaScript Vanilla
 
-# Projeto Back-end
+O que o projeto demonstra
 
-  - [x] JDK17
-  - [x] JASPER_STUDIO
-  - [x] JDBC_SQLite
-  - [x] JDBC_DBEAVER
+Scroll suave controlado por Lenis
+Animações sincronizadas ao scroll com ScrollTrigger
+Efeito de seções que se sobrepõem durante a rolagem
+Parallax responsivo baseado em yPercent
+Uso correto de scrub, pin e snap
+Estrutura BEM para organização de CSS
+Layout 100vh totalmente responsivo
+Integração correta entre Lenis e GSAP (mesmo clock de tempo)
+
+Conceitos aplicados
+
+Sincronização de tempo entre bibliotecas de animação
+Uso de gsap.ticker para controlar renderização do scroll
+Atualização dinâmica com ScrollTrigger.refresh() no resize
+Performance otimizada sem recarregar a página
+Animações baseadas em porcentagem (responsividade real)
+
+Resultado visual
+
+Rolagem cinematográfica
+Transições suaves entre blocos
+Sensação de profundidade com parallax
+Experiência fluida, sem saltos ou travamentos
+
+Objetivo
+
+Explorar técnicas modernas de animação no navegador, aplicando boas práticas de performance e sincronização entre bibliotecas para criar uma experiência de navegação diferenciada em um portfólio visual.
+
+# Projeto Front-end
+
+  - [x] GSAP
+  - [x] SCROLLTRIGGER
+  - [x] LENIS
+  - [x] PARALLAX
+
 
 
 
