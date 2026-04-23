@@ -3,7 +3,7 @@
 ## :camera: Demo
 
 <p align="center">
-  <img src="port.gif" width="600" />
+  <img src="port.png" width="600" />
 </p>
 
 # Portfolio
